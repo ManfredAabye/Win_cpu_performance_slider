@@ -1,0 +1,16 @@
+D:\CPU_Speed\Sharp\CpuPerformanceSlider\bin\Debug\net9.0-windows\CpuPerformanceSlider.exe
+D:\CPU_Speed\Sharp\CpuPerformanceSlider\bin\Debug\net9.0-windows\CpuPerformanceSlider.deps.json
+D:\CPU_Speed\Sharp\CpuPerformanceSlider\bin\Debug\net9.0-windows\CpuPerformanceSlider.runtimeconfig.json
+D:\CPU_Speed\Sharp\CpuPerformanceSlider\bin\Debug\net9.0-windows\CpuPerformanceSlider.dll
+D:\CPU_Speed\Sharp\CpuPerformanceSlider\bin\Debug\net9.0-windows\CpuPerformanceSlider.pdb
+D:\CPU_Speed\Sharp\CpuPerformanceSlider\obj\Debug\net9.0-windows\CpuPerformanceSlider.GeneratedMSBuildEditorConfig.editorconfig
+D:\CPU_Speed\Sharp\CpuPerformanceSlider\obj\Debug\net9.0-windows\CpuPerformanceSlider.AssemblyInfoInputs.cache
+D:\CPU_Speed\Sharp\CpuPerformanceSlider\obj\Debug\net9.0-windows\CpuPerformanceSlider.AssemblyInfo.cs
+D:\CPU_Speed\Sharp\CpuPerformanceSlider\obj\Debug\net9.0-windows\CpuPerformanceSlider.csproj.CoreCompileInputs.cache
+D:\CPU_Speed\Sharp\CpuPerformanceSlider\obj\Debug\net9.0-windows\CpuPerformanceSlider.dll
+D:\CPU_Speed\Sharp\CpuPerformanceSlider\obj\Debug\net9.0-windows\refint\CpuPerformanceSlider.dll
+D:\CPU_Speed\Sharp\CpuPerformanceSlider\obj\Debug\net9.0-windows\CpuPerformanceSlider.pdb
+D:\CPU_Speed\Sharp\CpuPerformanceSlider\obj\Debug\net9.0-windows\CpuPerformanceSlider.genruntimeconfig.cache
+D:\CPU_Speed\Sharp\CpuPerformanceSlider\obj\Debug\net9.0-windows\ref\CpuPerformanceSlider.dll
+D:\CPU_Speed\Sharp\CpuPerformanceSlider\obj\Debug\net9.0-windows\CpuPerformanceSlider.Form1.resources
+D:\CPU_Speed\Sharp\CpuPerformanceSlider\obj\Debug\net9.0-windows\CpuPerformanceSlider.csproj.GenerateResource.cache
