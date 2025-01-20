@@ -1,0 +1,2 @@
+# Win_cpu_performance_slider
+CPU Schnelleinstellung Prozessorleistung
