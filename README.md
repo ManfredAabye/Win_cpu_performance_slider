@@ -1,4 +1,5 @@
 # Win_cpu_performance_slider
+Bitte das Tool als Admin starten.
 
 ## Beschreibung
 Das CPU Performance Slider Tool ermöglicht es Benutzern, die Mindest- und Maximalprozessorleistung ihres Systems einfach zu ändern. Das Tool ist besonders nützlich für Situationen, in denen die CPU-Leistung angepasst werden muss, um Strom zu sparen oder die Leistung zu maximieren.
