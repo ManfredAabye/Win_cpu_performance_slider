@@ -34,7 +34,7 @@
             trackBarMin.Size = new Size(260, 90);
             trackBarMin.TabIndex = 0;
             trackBarMin.Value = 5;
-            trackBarMin.Scroll += trackBarMin_Scroll;
+            trackBarMin.Scroll += new System.EventHandler(this.trackBarMin_Scroll);
             // 
             // trackBarMax
             // 
@@ -45,7 +45,7 @@
             trackBarMax.Size = new Size(260, 90);
             trackBarMax.TabIndex = 1;
             trackBarMax.Value = 100;
-            trackBarMax.Scroll += trackBarMax_Scroll;
+            trackBarMax.Scroll += new System.EventHandler(this.trackBarMax_Scroll);
             // 
             // labelMin
             // 
@@ -54,7 +54,7 @@
             labelMin.Name = "labelMin";
             labelMin.Size = new Size(333, 32);
             labelMin.TabIndex = 2;
-            labelMin.Text = "Mindestprozessorleistung: 5%";
+            labelMin.Text = "Mindestprozessorleistung: 0%";
             // 
             // labelMax
             // 
@@ -73,7 +73,7 @@
             buttonApply.TabIndex = 4;
             buttonApply.Text = "Einstellungen anwenden";
             buttonApply.UseVisualStyleBackColor = true;
-            buttonApply.Click += buttonApply_Click;
+            buttonApply.Click += new System.EventHandler(this.buttonApply_Click);
             // 
             // Form1
             // 
@@ -86,7 +86,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             Text = "CPU Leistungseinstellungen";
-            Load += Form1_Load;
+            Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)trackBarMin).EndInit();
             ((System.ComponentModel.ISupportInitialize)trackBarMax).EndInit();
             ResumeLayout(false);
